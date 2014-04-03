@@ -1,4 +1,4 @@
 component-cdn
 =============
 
-component-as-a-service
+It's like [browserify-cdn](http://wzrd.in/) but for Component.
